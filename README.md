@@ -12,7 +12,7 @@ It contains various section like feature, products, testimonial, blogs, footer. 
 ![image](https://user-images.githubusercontent.com/117870758/200967616-bd609c21-1bda-4004-9869-d7dfbc261a71.png)
 ![image](https://user-images.githubusercontent.com/117870758/200967645-1dd24df3-a409-4f73-90d8-d46029e72b61.png)
 ![image](https://user-images.githubusercontent.com/117870758/200967666-b96a41a0-0fd2-408a-a492-982f39b110f6.png)
-![image](https://user-images.githubusercontent.com/117870758/200967679-62db018d-ae09-4d16-bd3a-061c393173a3.png)
+
 
 c. Contact us
 This page is created to interact with users, it allows users to convey any kind of message to tha company. Which is also kept as a record in database. 
